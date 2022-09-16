@@ -1,6 +1,7 @@
 # Python_Live_Project
 
 OVERVIEW
+
 Two week project utilizing Django with Python in order to build a website and app with several linked documents/pages. Using templates we laid out the basic structure we want applied to each document. This was a great way to see the bigger picture of a large project and how all the moving parts relate to each other and work together. In this project we worked with HTML, CSS, Python, Django specific syntax, and learned how to implement Beautiful Soup.
 
 
