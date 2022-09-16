@@ -65,7 +65,7 @@ def guitar_wishlist_delete(request, pk):
         return redirect('GuitarWishlist_viewall')
     content = {'chosenList': chosenList}
     return render(request, 'GuitarWishlist/guitar_wishlist_delete.html', content)
-    ```
+```
 
 6. Setup Beautiful Soup in order to parse through other websites and scrape data from them.
 
