@@ -5,6 +5,8 @@ OVERVIEW
 Two week project utilizing Django with Python in order to build a website and app with several linked documents/pages. Using templates we laid out the basic structure we want applied to each document. This was a great way to see the bigger picture of a large project and how all the moving parts relate to each other and work together. In this project we worked with HTML, CSS, Python, Django specific syntax, and learned how to implement Beautiful Soup.
 
 
+The app I built is a Wishlist Creator/Manager for new guitars. Using the combined languages and syntax outlined above I built various templates and views/functions to work with a database and allow users to make edits or delete previous lists as well as save changes or make new lists from scratch. The app also utilizes Beautiful Soup for web scraping and returns the desired data from other websites with applicable information.
+
 --------In this two week sprint I completed 8 stories each comprised of a specific task to complete.----------
 
 1. Built and registered basic app to create Guitar Wishlists using Django, this included linking the views.py, settings.py, urls,py, and other files as well as views to render the desired page with basic elements/styling.
